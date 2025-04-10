@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hey+there!+I'm+Bharath+Raj+%F0%9F%91%8B;A+Passionate+Full+Stack+Developer;React+%2F+Next.js+%2F+FastAPI+Lover;Learning+by+Building+Real+Apps" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Bharath Raj</h1>
 <h3 align="center">🚀 Full Stack Developer | 👨‍💻 Curious Coder | 📦 Tech Tinkerer</h3>
 
 <p align="center">
