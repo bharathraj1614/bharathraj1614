@@ -76,13 +76,13 @@
 ## 🤝 Let's Connect!
 
 <p align="center">
-  <a href="mailto:bharathraj1614@gmail.com">
+  <a target="_blank" href="mailto:bharathraj1614@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/bharathraj1614">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/bharathraj1614/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a target="_blank" href="https://www.linkedin.com/in/bharathraj1614/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <!-- Future Links: LinkedIn / Portfolio -->
 </p>
 
