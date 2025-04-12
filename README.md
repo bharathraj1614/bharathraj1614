@@ -52,7 +52,7 @@
 - 🎬 Features: Smart Search, Ratings, UI Feedback
 - 🔧 Learned: Data Fetching, useEffect, useReducer
 
-![usePopcorn](https://github.com/bharathraj1614/usePopcorn/raw/main/public/screenshot.png)
+![usePopcorn](https://github.com/bharathraj1614/usePopcorn/raw/master/public/screenshot.png)
 
 ---
 
