@@ -41,7 +41,7 @@
 - 🎯 Features: Live Map, City Pins, Notes, Responsive UI
 - 🧠 Learned: State Management, API integration, Modular Components
 
-![WorldWise](https://github.com/bharathraj1614/WorldWise/raw/main/public/screenshot.png)
+![WorldWise](https://github.com/bharathraj1614/WorldWise/raw/main/public/Screenshot.png)
 
 ---
 
